@@ -52,5 +52,3 @@ for key in stock_d.keys():
 # values() : 데이터
 for value in stock_d.values():
   print(value)
-
-#dasdadsad

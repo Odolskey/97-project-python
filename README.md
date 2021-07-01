@@ -1,1 +1,1 @@
-섹스
+Python-Study
